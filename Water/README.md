@@ -3,4 +3,6 @@
 * StorageModel.ipynb: A jupyter notebook containing the tank storage model.
 * RetentionPondModel.py: A python file containing the runoff and retention pond hydraulic/storage model.
 * PondPlottingTool: A jupyter notebook containing functions to plot results from the retention pond model.
-* PondStatisticsTool.ipynb: A jupyter notebook containing functions to calculate pond performance. 
+* PondStatisticsTool.ipynb: A jupyter notebook containing functions to calculate pond performance.
+* BS 8490 Design Calculations.xlsx: An excel document containing calculations used to design the siphonic drainage system.   
+* Rainfall Pattern Analysis.xlsx: An excel document containing calculations used to inform base statistics for the rainfall model.
