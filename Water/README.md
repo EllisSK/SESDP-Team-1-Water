@@ -1,4 +1,6 @@
-## Contents:
+## This folder contains calculation files produced by the water team.
+
+### Contents:
 * RainfallModel.ipynb: A jupyter notebook containing the combined markov-state and amaounts model used to predict rainfall.
 * StorageModel.ipynb: A jupyter notebook containing the tank storage model.
 * RetentionPondModel.py: A python file containing the runoff and retention pond hydraulic/storage model.
